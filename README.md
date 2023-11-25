@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @umakoduru2204
+- 👋 Hi, I’m @umakoduru
 - 🌱 I’m currently learning AID(CSE)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me umasaipriya@GMAIL.COM
+- 📫 Reach me with umasaipriya462@gmail.COM
 
 <!---
 umakoduru2204/umakoduru2204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
